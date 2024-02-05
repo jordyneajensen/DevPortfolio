@@ -1,8 +1,9 @@
 import React from 'react'
 
+
 function about() {
   return (
-    <h2>I know that <span>Good Design</span> <br/> means <span>Good</span> Business</h2>
+    <h2>I know that Good Design is Good Business</h2>
   )
 }
 
