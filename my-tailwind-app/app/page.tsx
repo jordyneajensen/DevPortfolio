@@ -2,7 +2,7 @@ import React from 'react';
 import About from './about';
 import Contact from './contact'
 import Skills from './skills';
-import Navbar from './navbar'
+import Navbar from './components/navbar'
 import Footer from './footer'
 import Projects from './projects'
 import Layout from './layout'
