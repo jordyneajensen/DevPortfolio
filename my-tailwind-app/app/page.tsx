@@ -1,10 +1,10 @@
 import React from 'react';
-import About from '../pages/about';
-import Contact from '../pages/contact'
-import Skills from '../pages/skills';
-import Navbar from '../pages/navbar'
-import Footer from '../pages/footer'
-import Projects from '../pages/projects'
+import About from './about';
+import Contact from './contact'
+import Skills from './skills';
+import Navbar from './navbar'
+import Footer from './footer'
+import Projects from './projects'
 import Layout from './layout'
 import "./globals.css";
  // Adjust the path accordingly
